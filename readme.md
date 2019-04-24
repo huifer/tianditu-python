@@ -4,7 +4,7 @@
 - Pillow==5.4.1
 - request==2019.4.13
 ## 开发文档
-[中文文档](doc/download xyzMAP.md)
+[中文文档](doc/download_xyzMAP.md)
 ## 功能
 - [下载天地图切片](src/download_pic/pic_download.py)
     - download_pic 下载函数
