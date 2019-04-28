@@ -12,7 +12,8 @@
 - [根据颜色进行分类提取](src/classify/groupIMG.py)
     - img_color_cov 提取函数
 
-
+- [边缘识别](src/classify/edge.py)
+    - edge 边缘识别函数(简易)
     
     
 ## License
