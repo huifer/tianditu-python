@@ -9,6 +9,8 @@
 - [下载天地图切片](src/download_pic/pic_download.py)
     - download_pic 下载函数
     - merge_pic 合并函数
+- [天地图行政区获取](src/tianditu/ez_region.py)
+    - download_region 行政区下载函数
 - [根据颜色进行分类提取](src/classify/groupIMG.py)
     - img_color_cov 提取函数
 
