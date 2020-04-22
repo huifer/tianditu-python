@@ -112,4 +112,11 @@ def run_spider(z, minx, maxx, miny, maxy):
 
 
 if __name__ == '__main__':
-    run_spider(z=18, minx=120.25871185675187, maxx=120.259, miny=30.16739619707534, maxy=30.16741)
+     if os.path.exists(BASE_PATH)==False:
+        os.mkdir(BASE_PATH)
+
+    if os.path.exists(BASE_PATH_res) == False:
+        os.mkdir(BASE_PATH_res)
+
+    #run_spider(z=6, minx=120.25871185675187, maxx=120.259, miny=30.16739619707534, maxy=30.16741)
+    run_spider(z=14, minx=116.55, maxx=116.66, miny=39.94, maxy=39.91)
