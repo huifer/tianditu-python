@@ -25,7 +25,7 @@ def download_pic(x, y, z):
     """
     try:
         # 下载图片
-        key = 'a4ee5c551598a1889adfabff55a5fc27'
+        key = 'your tianditu key'
         for xi in x:
             for yi in y:
                 url = "http://t3.tianditu.gov.cn/DataServer?T=vec_w&x={}&y={}&l={}&tk={}".format(xi, yi, z, key)
