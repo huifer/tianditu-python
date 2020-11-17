@@ -19,7 +19,7 @@ headers = {
 x = 27326
 y = 13492
 z = 15
-key = 'a4ee5c551598a1889adfabff55a5fc27'
+key = 'your tianditu key'
 # 完整url
 url = "http://t3.tianditu.gov.cn/DataServer?T=vec_w&x={}&y={}&l={}&tk={}".format(x, y, z, key)
 # 保存文件名称
