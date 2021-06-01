@@ -10,4 +10,4 @@ public==2019.4.13
 query-string==2019.4.13
 request==2019.4.13
 requests==2.21.0
-urllib3==1.24.2
+urllib3==1.26.5
