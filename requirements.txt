@@ -4,7 +4,7 @@ get==2019.4.13
 idna==2.8
 numpy==1.16.3
 opencv-python==4.1.0.25
-Pillow==6.2.0
+Pillow==9.0.0
 post==2019.4.13
 public==2019.4.13
 query-string==2019.4.13
